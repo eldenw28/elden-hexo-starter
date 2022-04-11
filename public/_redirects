@@ -1,0 +1,4 @@
+# Domain level redirects for eldenwilliams.com
+
+http://elden-hexo-starter.netlify.app/* https://www.eldenwilliams.com/:splat 301!
+https://elden-hexo-starter.netlify.app/* https://www.eldenwilliams.com/:splat 301!
